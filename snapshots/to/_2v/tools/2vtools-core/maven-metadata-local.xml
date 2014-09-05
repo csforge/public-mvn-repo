@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>to._2v.tools</groupId>
+  <artifactId>2vtools-core</artifactId>
+  <versioning>
+    <versions>
+      <version>1.4.0.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140905085827</lastUpdated>
+  </versioning>
+</metadata>
