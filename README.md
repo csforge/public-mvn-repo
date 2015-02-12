@@ -2,12 +2,21 @@
 
 ##Usage
 
-- **pom.xml**:
+- **pom.xml**: add public-mvn-repo ***snapshots*** repository
 
 		<repositories>
 		    <repository>
 		        <id>csforge-snapshots</id>
 		        <url>https://github.com/csforge/public-mvn-repo/raw/master/snapshots</url>
+		    </repository>
+	 	</repositories> 
+
+	or ***releases*** repository
+
+		<repositories>
+		    <repository>
+		        <id>csforge-snapshots</id>
+		        <url>https://github.com/csforge/public-mvn-repo/raw/master/releases</url>
 		    </repository>
 	 	</repositories> 
 
