@@ -4,7 +4,7 @@
 
   <groupId>to._2v.tools</groupId>
   <artifactId>2vtools-core</artifactId>
-  <version>1.4.0.3-SNAPSHOT</version>
+  <version>1.4.0.2-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>2vtools-core</name>
